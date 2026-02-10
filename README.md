@@ -30,7 +30,7 @@
 **Использование:**
 
 ### Базовое использование
-``./system-info.sh
+`./system-info.sh`
 
 ### Сохранение вывода в файл
 ./system-info.sh > system_report.txt
