@@ -51,9 +51,11 @@ AlmaLinux 9.3 (Shamrock Pampas Cat)
 
 Время работы системы:
 up 2 hours, 30 minutes
-...```
+...
+```
 
 ## 2. log-cleaner.sh
+
 **Назначение:** Безопасная очистка старых log-файлов.
 
 **Особенности:**
