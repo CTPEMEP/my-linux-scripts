@@ -32,11 +32,15 @@
 
 Базовое использование
 
-`./system-info.sh`
+```
+./system-info.sh
+```
 
 Cохранение вывода в файл
 
-`./system-info.sh > system_report.txt`
+```
+./system-info.sh > system_report.txt
+```
 
 **Пример вывода:**
 ```
@@ -138,7 +142,7 @@ ls -la ~/config-backups/
 └── config-backup-20240314_101545.tar.gz
 ```
 # Структура проекта
-
+```
 text
 my-linux-scripts/
 ├── README.md                 # Эта документация
@@ -148,7 +152,7 @@ my-linux-scripts/
 ├── log-cleaner.sh           # Очистка логов
 ├── backup-configs.sh        # Бэкап конфигов
 └── test-scripts.sh          # Тестовый скрипт
-
+```
 # Установка и использование
 
 **Требования**
@@ -181,7 +185,9 @@ source ~/.bashrc
 ```
 Теперь можно запускать из любой директории
 
-```system-info.sh```
+```
+system-info.sh
+```
 
 # Тестирование
 
