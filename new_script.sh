@@ -1,1 +1,1 @@
-echo "Hello from new script!"
+echo "Hello, huem po lbu ne dalo?"
